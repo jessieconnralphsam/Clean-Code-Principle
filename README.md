@@ -91,3 +91,11 @@ _____________________________________
 4. Needless Complexity.
 5. Needless Repetition.
 6. Opacity. The code is hard to understand.
+
+***
+1.Prevent Unfinished Works
+2.Enforce Coding Standards
+3.Document Chosen pattern
+4.Review new pattern early
+5.Never expose refactoring
+6.Asssume unexpected change
