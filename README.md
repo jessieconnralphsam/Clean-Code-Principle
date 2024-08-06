@@ -4,6 +4,12 @@ Big O Calculator: https://www.bigocalc.com/
 ***
 # Clean-Code-Principle
 Code is clean if it can be understood easily – by everyone on the team. Clean code can be read and enhanced by a developer other than its original author. With understandability comes readability, changeability, extensibility and maintainability.
+
+PSR-1: Basic Coding Standard : https://www.php-fig.org/psr/psr-1/
+<br>
+PSR-2: Coding Style Guide: https://www.php-fig.org/psr/psr-2/
+<br>
+PSR-4: Autoloader: https://www.php-fig.org/psr/psr-4/
 _____________________________________
 
 ## General rules
