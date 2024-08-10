@@ -1,6 +1,8 @@
 Clean Code Check List: https://docs.google.com/document/d/1GUBQNe1TRcAsUz3tJ0T_8OA2qMNK7TDjHJvRud5KiVo/edit?usp=drive_link
 <br>
 Big O Calculator: https://www.bigocalc.com/
+<br>
+Setting up docker container: https://docs.google.com/document/d/1GUBQNe1TRcAsUz3tJ0T_8OA2qMNK7TDjHJvRud5KiVo/edit?usp=sharing
 ***
 # Clean-Code-Principle
 Code is clean if it can be understood easily – by everyone on the team. Clean code can be read and enhanced by a developer other than its original author. With understandability comes readability, changeability, extensibility and maintainability.
